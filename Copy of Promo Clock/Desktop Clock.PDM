@@ -1,0 +1,384 @@
+[Root]
+Most Recent Package=PCS Promo Desktop Clock
+
+
+[Package|Promo Desktop Clock|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package
+
+[Package|Promo Desktop Clock|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Promo Desktop Clock|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Promo Desktop Clock|Files Found]
+
+[Package|Promo Desktop Clock|Files Released]
+
+[Package|Promo Desktop Clock|Missing Dependency Information]
+
+[Package|Promo Desktop Clock|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Promo Desktop Clock|Files Added]
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\x-files.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\aliens raised.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\aliens.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\brass monkey.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\casta blanka reddish.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\discreet hot.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\discreet purple.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\gothic gold.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\gothic silver.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\jonny bravo.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\liquid.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\pac man.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\power puff.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\razor green.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\red bubble.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\spider man.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\alarm.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\wooden bubbles.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\dance.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\drum loop.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\jittery.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\jumpy beep.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\paranoid android.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\reverse fog horn.mp3=
+
+[Package|Promo Desktop Clock|Files Removed]
+
+[Package|Promo Desktop Clock|Files In Project]
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Desktop Clock.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\X-Files.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens Raised.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Brass Monkey.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Casta Blanka Reddish.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Hot.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Purple.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Gold.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Silver.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Jonny Bravo.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Liquid.BMP=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Pac Man.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Power Puff.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Razor Green.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Red Bubble.BMP=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Spider Man.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Alarm.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Wooden Bubbles.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Dance.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Drum Loop.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jittery.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jumpy Beep.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Paranoid Android.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Reverse Fog Horn.mp3=Yes
+
+[Package|Promo Desktop Clock|Configure Registry Files]
+Applicable=No
+
+[Package|Promo Desktop Clock|Configure Remote Servers]
+Applicable=No
+
+[Package|Promo Desktop Clock|Install Locations]
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Desktop Clock.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\X-Files.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens Raised.bmp=$(AppPath)\Test
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Brass Monkey.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Casta Blanka Reddish.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Hot.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Purple.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Gold.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Silver.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Jonny Bravo.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Liquid.BMP=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Pac Man.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Power Puff.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Razor Green.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Red Bubble.BMP=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Spider Man.bmp=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Alarm.mp3=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Wooden Bubbles.mp3=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Dance.mp3=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Drum Loop.mp3=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jittery.mp3=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jumpy Beep.mp3=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Paranoid Android.mp3=$(AppPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Reverse Fog Horn.mp3=$(AppPath)
+
+[Package|Promo Desktop Clock|Configure Shared Files]
+Applicable=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Desktop Clock.exe=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\X-Files.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens Raised.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Brass Monkey.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Casta Blanka Reddish.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Hot.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Purple.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Gold.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Silver.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Jonny Bravo.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Liquid.BMP=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Pac Man.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Power Puff.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Razor Green.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Red Bubble.BMP=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Spider Man.bmp=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Alarm.mp3=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Wooden Bubbles.mp3=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Dance.mp3=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Drum Loop.mp3=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jittery.mp3=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jumpy Beep.mp3=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Paranoid Android.mp3=No
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Reverse Fog Horn.mp3=No
+
+[Package|Promo Desktop Clock|Distribution]
+Type=single
+Size=
+Title=Promo Desktop Clock
+
+[Package|Promo Desktop Clock|Package]
+PackageFolder=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package
+ProjectFolder=C:\VB Progs\Desktop Clock - A New Time\Promo Clock
+ServerSideCab=
+File1=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package\setup.exe
+File2=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package\Setup.Lst
+File3=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package\Desktop Clock.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Promo Desktop Clock|IconGroups]
+Group0=PCS Desktop Clock
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Promo Desktop Clock|PCS Desktop Clock]
+Icon1="Desktop Clock.exe"
+Title1=Promo Desktop Clock
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|PCS Promo Desktop Clock|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package (2)
+
+[Package|PCS Promo Desktop Clock|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PCS Promo Desktop Clock|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PCS Promo Desktop Clock|Files Found]
+
+[Package|PCS Promo Desktop Clock|Files Released]
+
+[Package|PCS Promo Desktop Clock|Missing Dependency Information]
+
+[Package|PCS Promo Desktop Clock|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|PCS Promo Desktop Clock|Files Added]
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\x-files.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\aliens raised.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\aliens.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\brass monkey.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\casta blanka reddish.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\discreet hot.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\discreet purple.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\gothic gold.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\gothic silver.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\jonny bravo.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\liquid.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\pac man.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\power puff.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\razor green.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\red bubble.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\clock skins\spider man.bmp=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\wooden bubbles.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\dance.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\drum loop.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\jittery.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\jumpy beep.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\paranoid android.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\sounds\reverse fog horn.mp3=
+c:\vb progs\desktop clock - a new time\promo clock\alarm.mp3=
+
+[Package|PCS Promo Desktop Clock|Files Removed]
+
+[Package|PCS Promo Desktop Clock|Files In Project]
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Desktop Clock.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\X-Files.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens Raised.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Brass Monkey.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Casta Blanka Reddish.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Hot.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Purple.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Gold.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Silver.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Jonny Bravo.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Liquid.BMP=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Pac Man.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Power Puff.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Razor Green.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Red Bubble.BMP=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Spider Man.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Wooden Bubbles.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Dance.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Drum Loop.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jittery.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jumpy Beep.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Paranoid Android.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Reverse Fog Horn.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Alarm.mp3=Yes
+
+[Package|PCS Promo Desktop Clock|Configure Registry Files]
+Applicable=No
+
+[Package|PCS Promo Desktop Clock|Configure Remote Servers]
+Applicable=No
+
+[Package|PCS Promo Desktop Clock|Install Locations]
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Desktop Clock.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\X-Files.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens Raised.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Brass Monkey.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Casta Blanka Reddish.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Hot.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Purple.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Gold.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Silver.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Jonny Bravo.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Liquid.BMP=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Pac Man.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Power Puff.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Razor Green.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Red Bubble.BMP=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Spider Man.bmp=$(AppPath)\Clock Skins
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Wooden Bubbles.mp3=$(AppPath)\Sounds
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Dance.mp3=$(AppPath)\Sounds
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Drum Loop.mp3=$(AppPath)\Sounds
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jittery.mp3=$(AppPath)\Sounds
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jumpy Beep.mp3=$(AppPath)\Sounds
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Paranoid Android.mp3=$(AppPath)\Sounds
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Reverse Fog Horn.mp3=$(AppPath)\Sounds
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Alarm.mp3=$(AppPath)
+
+[Package|PCS Promo Desktop Clock|Configure Shared Files]
+Applicable=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Desktop Clock.exe=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\X-Files.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens Raised.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Aliens.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Brass Monkey.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Casta Blanka Reddish.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Hot.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Discreet Purple.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Gold.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Gothic Silver.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Jonny Bravo.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Liquid.BMP=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Pac Man.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Power Puff.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Razor Green.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Red Bubble.BMP=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Clock Skins\Spider Man.bmp=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Wooden Bubbles.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Dance.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Drum Loop.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jittery.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Jumpy Beep.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Paranoid Android.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Sounds\Reverse Fog Horn.mp3=Yes
+C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Alarm.mp3=Yes
+
+[Package|PCS Promo Desktop Clock|Distribution]
+Type=single
+Size=
+Title=Promo Desktop Clock
+
+[Package|PCS Promo Desktop Clock|Package]
+PackageFolder=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package (2)
+ProjectFolder=C:\VB Progs\Desktop Clock - A New Time\Promo Clock
+ServerSideCab=
+File1=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package (2)\setup.exe
+File2=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package (2)\Setup.Lst
+File3=C:\VB Progs\Desktop Clock - A New Time\Promo Clock\Package (2)\Desktop Clock.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PCS Promo Desktop Clock|IconGroups]
+Group0=PCS Desktop Clock
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|PCS Promo Desktop Clock|PCS Desktop Clock]
+Icon1="Desktop Clock.exe"
+Title1=PCS Desktop Clock
+StartIn1=$(AppPath)
+Key1=Icon1
